@@ -1,0 +1,36 @@
+{
+  "name": "purge-react-icons",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "purge-react-icons": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wintercounter/purge-react-icons.git"
+  },
+  "keywords": [
+    "react-icons",
+    "purge",
+    "fix",
+    "memory",
+    "webpack"
+  ],
+  "author": "wintercounter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wintercounter/purge-react-icons/issues"
+  },
+  "homepage": "https://github.com/wintercounter/purge-react-icons#readme",
+  "description": "",
+  "dependencies": {
+    "fast-glob": "^3.3.2",
+    "fs-extra": "^11.2.0"
+  },
+  "devDependencies": {
+    "prettier": "^3.3.3"
+  }
+}
