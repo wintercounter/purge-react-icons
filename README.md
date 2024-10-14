@@ -5,7 +5,11 @@
 ## Usage
 
 ```sh
-npx purge-react-icons [sourceDirectory]
+# Default directorz is src
+npx purge-react-icons
+
+# Passing source directory
+npx purge-react-icons lib
 ```
 
 Over the years I had many issues using `react-icons` in my projects during development.
